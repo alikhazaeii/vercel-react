@@ -1,7 +1,7 @@
 
 import React, { useEffect, useState } from 'react'
-import bg from './../public/bg.jpg'
-import Logo from './../public/amazon.png'
+import bg from './assets/bg.jpg'
+import Logo from './assets/amazon.png'
 export default function App() {
   const [data, setData] = useState([])
 
